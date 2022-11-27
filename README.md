@@ -8,10 +8,11 @@
 
 ## Summary of my past projects:
 - sonar-shape-classifier: A CNN pipeline that permits the use of a HC-SR04 Arduino SONAR, despite its low lateral precision, to collect data on an object and determine whether it has a cylindrical or a flat contour. Developed in Python (Tensorflow).
-- data-analysis-in-cpp: Implemented machine learning algorithms in C++ such as k-means, kernel machines and density estimations. 
+- data-analysis-in-cpp: Implemented machine learning algorithms in C++ such as k-means, kernel machines and density estimations.
+- INF554-Assessment: Implemented in Python dimensioniality-reduction algorithms such as PCA and MDS to denoise images and give a low-rank approximation of the image. 
 
 ## Active projects:
 - imdb-database: The final aim of this project is to set up a web application that enables users to exploit a movie database.
 - multi-query-optimization: I am devising an efficient algorithm to compute efficiently a set of Entity-to-Entity paths present in a ConnectionLens graph, which is a data journalist knowledge graph that integrates heterogenous data structures.
 
-I love to talk about data science, so don't hesitate to reach out! 
+I love to talk about data science, so don't hesitate to reach out!
