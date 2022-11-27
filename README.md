@@ -8,8 +8,7 @@
 
 ## Summary of my past projects:
 - inf554-assessment: Implemented in Python dimensioniality-reduction algorithms such as PCA and MDS to denoise images and give a low-rank approximation of the image. 
-- sonar-shape-classifier: A CNN pipeline that permits the use of a HC-SR04 Arduino SONAR, despite its low lateral precision, to collect data on an object and determine whether it has a cylindrical or a flat contour. Developed in Python (Tensorflow).
-- data-analysis-in-cpp: Implemented machine learning algorithms in C++ such as k-means, kernel machines and density estimations.
+- sonar-shape-classifier: A CNN that permits the use of a HC-SR04 Arduino SONAR, despite its low lateral precision, to collect data on an object and determine whether it has a cylindrical or a flat contour. Developed in Python (Tensorflow).
 
 ## Active projects:
 - imdb-database: The final aim of this project is to set up a web application that enables users to exploit a movie database.
