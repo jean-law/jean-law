@@ -14,4 +14,3 @@
 - imdb-database: The final aim of this project is to set up a web application that enables users to exploit a movie database.
 - multi-query-optimization: I am devising an efficient algorithm to compute efficiently a set of Entity-to-Entity paths present in a ConnectionLens graph, which is a data journalist knowledge graph that integrates heterogenous data structures.
 
-I love to talk about data science, so don't hesitate to reach out!
